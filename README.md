@@ -8,4 +8,4 @@
   <li>Responsive in three screens</li>
 
 </ol>
-This site is responsive and if you have any comments please inform me in Mail by The next Link <a href="https://Mailto.yousefshwaly@gmail.com">Mail Me</a>
+This site is responsive and if you have any comments please inform me in Mail by The next Link <a href="mailto:yousefshwaly@gmail.com" target='_blank'>Mail Me</a>
